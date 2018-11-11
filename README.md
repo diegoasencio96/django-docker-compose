@@ -3,7 +3,7 @@
 # django-docker-compose
 Ejemplo de configuración basico de un proyecto django en un ambiente dockerizado. 
 
-### ¿Cómo clono el repositorio? ###
+### ¿Cómo clono el repositorio?
 
 ```
 git init
@@ -14,12 +14,13 @@ git pull upstream development
 
 # Ejecutar el proyecto
 
--Por primera vez
+### Por primera vez
 ```
 docker-compose build
 ```
 
--Luego de haber hecho build la primera vez
+
+### Luego de haber hecho build la primera vez
 ```
 docker-compose up
 ```
@@ -35,7 +36,7 @@ make superuser
 Nota: Si se realizan cambios sobre el compose, se debe construir nuevamente el proyecto.
 ```
 
-### ¿Cómo contribuir?###
+# ¿Cómo contribuir?
 
 Guardar cambios locales
 ```
