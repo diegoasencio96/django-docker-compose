@@ -26,6 +26,7 @@ docker-compose up
 ```
 
 # Ejecutar comandos para django usando el Makefile:
+
 ```
 make migrate
 make statics
