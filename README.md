@@ -1,6 +1,7 @@
 # README #
 
-# django-docker-compose
+# django-docker-compose [![Build Status](https://travis-ci.org/diegoasencio96/django-docker-compose.svg?branch=master)](https://travis-ci.org/diegoasencio96/django-docker-compose)
+
 Ejemplo de configuración basico de un proyecto django en un ambiente dockerizado. 
 
 ### ¿Cómo clono el repositorio?
